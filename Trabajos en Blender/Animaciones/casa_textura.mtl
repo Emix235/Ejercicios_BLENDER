@@ -1,0 +1,42 @@
+# Blender 4.0.2 MTL File: 'casa_textura.blend'
+# www.blender.org
+
+newmtl Material.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Trabajos en Blender/casa_textura/Texturas Blender/Casa/IMG_2082.JPG
+
+newmtl Material.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Trabajos en Blender/casa_textura/Texturas Blender/Casa/paredblanca.jpg
+
+newmtl dordo
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Trabajos en Blender/casa_textura/Texturas Blender/Casa/dorado.jpg
+
+newmtl madera
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Trabajos en Blender/casa_textura/Texturas Blender/Casa/madera.jpg
